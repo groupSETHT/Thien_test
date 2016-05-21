@@ -1,6 +1,10 @@
 Lan 1
 Lan 2
 Lan 3
+<<<<<<< HEAD
 Mission2_Lan1
 Thien_Lan1
 Thien_Branch
+=======
+Mission2_Lan1
+>>>>>>> parent of 5fbab81... Thien_Lan1
